@@ -9,18 +9,9 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/2f65f8caa0d049b3bc270ae229f450f4)](https://www.codacy.com/app/joe-crick/Reduxigen?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=joe-crick/Reduxigen&amp;utm_campaign=Badge_Grade)
 ![Current Version](https://img.shields.io/badge/version-0.0.11-green.svg)
 
-"[Redux] is hard... Integrating React and Redux is going to make [your] architecture more complicated." - [Brian Holt](https://github.com/btholt)
+Reduxigen - Powerful state management made simple.
 
-Reduxigen - Making powerful state management simple.
-
-Reduxigen makes working with React and Redux ridiculously simple:
-
- * No action creators. 
- * No reducers. 
- * No `mapStateToProps`. 
- * No `mapDispatchToProps`. 
- 
-What is there? 
+Reduxigen makes managing state ridiculously simple:
 
 * functions that update your state, and 
 * a powerful, simple `connect` method to bind React to Redux. 

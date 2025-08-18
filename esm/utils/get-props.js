@@ -103,5 +103,5 @@ function getBaseProperties(propSet) {
  * @return {boolean}
  */
 function isReactComponent(fn) {
-  return fn.prototype.hasOwnProperty("render");
+  return !!(fn && fn.prototype && Object.prototype.hasOwnProperty.call(fn.prototype, "render"));
 }
