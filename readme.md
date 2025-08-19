@@ -6,7 +6,6 @@
 [![Greenkeeper badge](https://badges.greenkeeper.io/joe-crick/Reduxigen.svg)](https://greenkeeper.io/)
 [![Build Status](https://travis-ci.org/joe-crick/Reduxigen.svg?branch=master)](https://travis-ci.org/joe-crick/Reduxigen)
 ![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2f65f8caa0d049b3bc270ae229f450f4)](https://www.codacy.com/app/joe-crick/Reduxigen?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=joe-crick/Reduxigen&amp;utm_campaign=Badge_Grade)
 ![Current Version](https://img.shields.io/badge/version-0.0.11-green.svg)
 
 Reduxigen - Powerful state management made simple.
