@@ -11,7 +11,7 @@
 
 Reduxigen - Powerful state management made simple.
 
-# NOTE: Reduxigen is an interesting footnote on the history of state management.
+# NOTE: Reduxigen is now footnote on the history of state management.
 It came to being at a time when working with Redux was complex, and the React world was obsessed with it. Developers, and Redux itself, have sensibly moved on from the madness to implement state management
 systems strikingly similar to Reduxigen; and, as such, Reduxigen can go to rest - it's dreams fulfilled, even if it never really took off the ground.
 
